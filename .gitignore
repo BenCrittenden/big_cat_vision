@@ -1,0 +1,65 @@
+# data
+/data
+.pkl
+.feather
+.csv
+.xls
+.xlsx
+.json
+
+#mac stuff
+.DS_Store
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+.tox/
+.pytest_cache/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+.python-version
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+.idea/
+
