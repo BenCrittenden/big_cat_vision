@@ -1,5 +1,6 @@
-pandas
-numpy
+jupyterlab
 matplotlib
+numpy
+pandas
 torch
 torch-vision
